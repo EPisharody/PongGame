@@ -1,6 +1,5 @@
-# Esha
+# EPisharody
 # October 15 2018
-# Pong Game. Extras: Start screen, final display screen, being able to pause during the game, difficulty changes as the game goes on (player presses a key to change the level), user can choose level at startup
 
 #Import modules
 import pygame
